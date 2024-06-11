@@ -199,3 +199,5 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+Part of the distributed code is derived in part from pwa-starter (https://github.com/pwa-builder/pwa-starter), licensed under MIT license, Copyright (c) Microsoft Corporation.
